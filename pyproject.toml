@@ -39,6 +39,10 @@ dependencies = [
     "tiktoken",
     "sounddevice",
     "python-frontmatter",
+    "trinity-rft>=0.2.1",
+    "dspy>=3.1.0",
+    "datasets>=2.20.0",
+    "litellm[proxy]>=1.75.3",
 ]
 
 [project.optional-dependencies]
